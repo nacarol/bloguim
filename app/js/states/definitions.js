@@ -3,8 +3,8 @@ export default {
     url: '/',
     templateUrl: 'home.html',
     data: {
-      title: '',
-      description: '',
+      title: 'Saitim',
+      description: 'Descriptionzin',
     },
   },
 };

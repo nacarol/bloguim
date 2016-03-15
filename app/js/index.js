@@ -1,4 +1,5 @@
-import './bootstrap-custom';
+// import './bootstrap-custom';
+import 'jquery';
 import angular from 'angular';
 import 'angular-ui-router';
 
@@ -13,8 +14,8 @@ angular.module('app', [
   'ui.router',
   'templates',
   'app.states',
-  'app.controllers',
-  'app.components',
+  // 'app.controllers',
+  // 'app.components',
   'app.directives',
   'app.factories',
 ]).run(appRun);
