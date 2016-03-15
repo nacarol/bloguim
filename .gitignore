@@ -1,0 +1,22 @@
+# Random Stuff
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Test reports
+reports/
+
+# Dependency directory
+node_modules
+
+# Sublime Text Files
+*.subl*
+
+# Compiled folder
+build/
+
+# Temp Files
+templates.js
