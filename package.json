@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "gulp": "./node_modules/.bin/gulp",
-    "start:dev": "gulp dev",
+    "start": "gulp dev",
     "build": "gulp build",
     "test": "gulp test",
     "test:dev": "gulp test:dev"
